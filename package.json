@@ -12,12 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "concurrently": "^5.2.0",
+    "concurrently": "^5.3.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "googleapis": "^58.0.0",
-    "nodemailer": "^6.4.11",
     "nodemon": "^2.0.6"
+    "nodemailer": "^6.4.14",
+    "googleapis": "^61.0.0",
   },
   "engines": {
     "node": "12.18.2",
